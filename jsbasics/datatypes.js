@@ -11,4 +11,4 @@ null
 undefined
 Symbol -> used for uniqueness */
 console.table([typeof"Shyam",rollno,bool,undefined])
-// null is an object so its datatypes is not defined
+// null is an object so its types  is not defined
