@@ -10,5 +10,5 @@ Boolean
 null
 undefined
 Symbol -> used for uniqueness */
-console.table([typeof"Shyam",rollno,bool,undefined])
+console.table([typeof rollno])
 // null is an object so its types  is not defined
